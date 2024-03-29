@@ -7,3 +7,9 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Mohan
+Version Control with Git: Git is a powerful version control system that helps you track changes in your code. It allows you to collaborate effectively and maintain a history of your project.
+Basic Git Commands: Familiarize yourself with essential Git commands like git init (to initialize a repository), git add (to stage changes), git commit (to save changes), and git status (to check the status of your files).
+Branching and Merging: Learn about branches—useful for isolating features or bug fixes—and how to merge changes back into the main branch. Commands like git branch, git checkout, and git merge are crucial here.
+Remote Repositories: Understand how Git interacts with remote repositories like GitHub, GitLab, or Bitbucket
