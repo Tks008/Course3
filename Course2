@@ -7,3 +7,11 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+Mayuri Ladi
+Module : Divide and Conquer Algorithm
+Key takeway from this module is as follows:
+1. Divide the problem into several subproblems.
+2. Conquer the subproblems one by one untill all subproblems are solved.
+3. Combine the solutions of subproblems into main problem. 
