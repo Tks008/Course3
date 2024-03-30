@@ -9,9 +9,5 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 Rahul Potghan
-EDA
-1. Data Sourcing
-2. Data Cleaning
-3. Univariate analysis
-4. Bivariate analysis
-5. Derived Metrics
+Divide and Conquer Algorithms
+Understanding the problem, Divide it in small problems, solve all small problems and Conquer
