@@ -5,8 +5,6 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
-
+Ankit Kumar Surana
+Divide and Conquer Algorithms
+In Divide and Conquer Algorithms the problem statement is divided into smaller problems which are thenc alled recursively until solved. Once solved the solutions to these smaller problems are combined to derive solution to the final problem.
