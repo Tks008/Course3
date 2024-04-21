@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sanchita Patil
+Divide and Conquer Algorithms
+Dividing a problem into smaller subproblems and solving each one separately, then combining the solutions to produce the solution to the original problem, is a strong computational technique known as "Divide and Conquer." 
