@@ -9,4 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Harsha Kodlaya
+Data Visualization in Python
+Visualizations play a key role in communicating the spread and insights hidden in the data. Few key open-source Python packages/libraries that Data Analysis and Scientists can leverage to represent are Matplotlib and Seaborn. There are several chart types that can be used depending on intent of visualizaition - Bar/Column (Relative Comparison between Categories), Scatter (Correlation between two variables), Line (Trend of data over time), Histogram (Distribution of data),  Box (Range and outliers).
